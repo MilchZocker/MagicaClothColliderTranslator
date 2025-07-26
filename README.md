@@ -367,10 +367,6 @@ public class MigrationWorkflow
 - Cache converter components for repeated operations
 - Remove converter components after use to avoid memory bloat
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
 ### Development Setup
 
 1. **Clone Repository**
@@ -409,14 +405,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - ✅ Production-ready error handling
 - ✅ Comprehensive validation system
 
-### Development Milestones
-- **Phase 1:** Basic conversion framework
-- **Phase 2:** Size scaling correction
-- **Phase 3:** Radius reversal implementation  
-- **Phase 4:** Center offset mathematics
-- **Phase 5:** Production optimization
-- **Phase 6:** Comprehensive testing & validation
-
 ## Performance Metrics
 
 | Operation | Time (ms) | Memory (MB) |
@@ -433,16 +421,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **MagicaSoft** - For creating the excellent MagicaCloth physics systems
 - **Unity Technologies** - For the robust Unity Editor framework
-- **Community Contributors** - For testing and feedback during development
-
-## Support
-
-- 📧 **Email:** support@yourproject.com
-- 💬 **Discord:** [Join our community](https://discord.gg/yourserver)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/yourusername/magicacloth-capsule-converter/issues)
-- 📖 **Documentation:** [Full Documentation](https://yourdocs.com)
-
----
 
 **Made with ❤️ for the Unity and MagicaCloth communities**
 

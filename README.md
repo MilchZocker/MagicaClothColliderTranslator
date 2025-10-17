@@ -39,7 +39,7 @@ These differences mean that simply copying values results in **incorrect collisi
 ### Method 1: Unity Package Manager (Recommended)
 ```bash
 # Add via Git URL in Package Manager
-https://github.com/yourusername/magicacloth-capsule-converter.git
+https://github.com/MilchZocker/MagicaClothColliderTranslator.git
 ```
 
 ### Method 2: Manual Installation
